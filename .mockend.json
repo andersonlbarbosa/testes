@@ -1,0 +1,144 @@
+HTTP/1.1 200 OK
+Date: Wed, 16 Dec 2020 23:17:02 GMT
+Content-Type: application/json
+Content-Length: 1197
+Connection: close
+Server: Apache
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Cache-Control: no-cache, public, must-revalidate, max-age=2592000
+
+{
+  "retorno": {
+    "pedidos": [
+      {
+        "pedido": {
+          "desconto": "0,00",
+          "observacoes": "",
+          "observacaointerna": "",
+          "data": "2019-08-23",
+          "numero": "1234",
+          "numeroOrdemCompra": "",
+          "vendedor": "",
+          "valorfrete": "28.90",
+          "totalprodutos": "74.90",
+          "totalvenda": "103.80",
+          "situacao": "Atendido",
+          "dataSaida": "2019-08-23",
+          "loja": "203330307",
+          "numeroPedidoLoja": "2125458437",
+          "tipoIntegracao": "MercadoLivre",
+          "cliente": {
+            "id": "6389126145",
+            "nome": "Adimir\u00e7o J\u00fanior (adimir\u00e7o J\u00fanior)",
+            "cnpj": "012.839.575-31",
+            "ie": "",
+            "rg": "",
+            "endereco": "Rua Manoel Fernandes Barbosa Santos",
+            "numero": "230",
+            "complemento": "Conjunto Augusto Franco",
+            "cidade": "Aracaju",
+            "bairro": "Farol\u00e2ndia",
+            "cep": "49030420",
+            "uf": "SE",
+            "email": "ajunior.lcmfps+2-ogiytenjugu4dinrv@mail.mercadolivre.com",
+            "celular": "",
+            "fone": "79988252112"
+          },
+          "nota": {
+            "serie": "1",
+            "numero": "016724",
+            "dataEmissao": "2019-08-23 09:40:07",
+            "situacao": "7",
+            "valorNota": "103.80",
+            "chaveAcesso": "42190815290734000120550010000167241891569456"
+          },
+          "transporte": {
+            "transportadora": "Empresa Brasileira de Correios e Telegrafos",
+            "cnpj": "34.028.316\/0020-76",
+            "tipo_frete": "D",
+            "qtde_volumes": "1",
+            "enderecoEntrega": {
+              "nome": "Adimir\u00e7o J\u00fanior (ADIMIR\u00c7O J\u00daNIOR)",
+              "endereco": "Rua Manoel Fernandes Barbosa Santos",
+              "numero": "230",
+              "complemento": "Conjunto Augusto Franco",
+              "cidade": "Aracaju",
+              "bairro": "Farol\u00e2ndia",
+              "cep": "49.030-420",
+              "uf": "SE"
+            },
+            "volumes": [
+              {
+                "volume": {
+                  "id": "6389128691",
+                  "idServico": "6290637299",
+                  "idOrigem": "6389126166",
+                  "servico": "PAC (21)",
+                  "codigoServico": "21",
+                  "codigoRastreamento": "PU818078872BR",
+                  "valorFretePrevisto": "0.00",
+                  "remessa": null,
+                  "dataSaida": "2019-08-23",
+                  "prazoEntregaPrevisto": null,
+                  "valorDeclarado": "0.00",
+                  "avisoRecebimento": false,
+                  "maoPropria": false,
+                  "dimensoes": {
+                    "peso": "0.000",
+                    "altura": "0",
+                    "largura": "0",
+                    "comprimento": "0",
+                    "diametro": "0"
+                  },
+                  "urlRastreamento": "www2.correios.com.br\/sistemas\/rastreamento\/"
+                }
+              }
+            ],
+            "servico_correios": "PAC (21)"
+          },
+          "itens": [
+            {
+              "item": {
+                "codigo": "CY-PT100",
+                "descricao": "Coldres Externos Trava Guarda Mato Diversos Calibres Cytac",
+                "quantidade": "1.0000",
+                "valorunidade": "74.9000000000",
+                "precocusto": "7.4300000000",
+                "descontoItem": "0.00",
+                "un": "Un",
+                "pesoBruto": "0.12500",
+                "largura": "1",
+                "altura": "1",
+                "profundidade": "1",
+                "descricaoDetalhada": "",
+                "unidadeMedida": "cm",
+                "gtin": "0889147000742"
+              }
+            }
+          ],
+          "parcelas": [
+            {
+              "parcela": {
+                "idLancamento": "0",
+                "valor": "103.80",
+                "dataVencimento": "2019-08-23 00:00:00",
+                "obs": " Pedidos Vinculados: 2125458437",
+                "destino": "1",
+                "forma_pagamento": {
+                  "id": "762684",
+                  "descricao": "Mercado Pago",
+                  "codigoFiscal": "3",
+                  "bandeira": "99"
+                }
+              }
+            }
+          ],
+          "codigosRastreamento": {
+            "codigoRastreamento": "PU818078872BR"
+          }
+        }
+      }
+    ]
+  }
+}
