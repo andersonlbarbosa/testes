@@ -5,9 +5,124 @@
         "notafiscal": {
           "serie": "1",
           "numero": "016724",
+          "loja": "203330307",
+          "numeroPedidoLoja": "2125458437",
+          "tipo": "S",
+          "situacao": "Emitida DANFE",
+          "cliente": {
+            "nome": "Adimir\u00e7o J\u00fanior (adimir\u00e7o J\u00fanior)",
+            "cnpj": "01283957531",
+            "ie": "",
+            "rg": "",
+            "endereco": "Rua Manoel Fernandes Barbosa Santos",
+            "numero": "230",
+            "complemento": "Conjunto Augusto Franco",
+            "cidade": "Aracaju",
+            "bairro": "Farol\u00e2ndia",
+            "cep": "49.030-420",
+            "uf": "SE",
+            "email": "ajunior.lcmfps+2-ogiytenjugu4dinrv@mail.mercadolivre.com",
+            "fone": "79988252112"
+          },
+          "contato": "Adimir\u00e7o J\u00fanior (adimir\u00e7o J\u00fanior)",
+          "cnpj": "01283957531",
+          "vendedor": "",
+          "dataEmissao": "2019-08-23 09:40:07",
+          "valorNota": "103.80",
           "chaveAcesso": "42190815290734000120550010000167241891569456",
-          "xml": "https://bling.com.br/relatorios/nfe.xml.php?s&chaveAcesso=42190815290734000120550010000167241891569456",
-          "linkDanfe": "https://bling.com.br/doc.view.php?id=4c7d9d9c82789c8fd08cb22054253482"
+          "xml": "https:\/\/bling.com.br\/relatorios\/nfe.xml.php?s&chaveAcesso=42190815290734000120550010000167241891569456",
+          "linkDanfe": "https:\/\/bling.com.br\/doc.view.php?id=3cf42df85b59af39ce5d4f7ffe61dea4",
+          "codigosRastreamento": {
+            "codigoRastreamento": "PU818078872BR"
+          },
+          "cfops": [
+            "6108"
+          ],
+          "tipoIntegracao": "MercadoLivre",
+          "transporte": {
+            "transportadora": "Empresa Brasileira de Correios e Telegrafos",
+            "cnpj": "34.028.316\/0020-76",
+            "tipo_frete": "D",
+            "volumes": [
+              {
+                "volume": {
+                  "id": "6389128691",
+                  "idServico": "6290637299",
+                  "servico": "PAC (21)",
+                  "codigoServico": "21",
+                  "codigoRastreamento": "PU818078872BR",
+                  "valorFretePrevisto": "0.00",
+                  "remessa": null,
+                  "dataSaida": "2019-08-23",
+                  "prazoEntregaPrevisto": null,
+                  "valorDeclarado": "0.00",
+                  "avisoRecebimento": false,
+                  "maoPropria": false,
+                  "dimensoes": {
+                    "peso": "0.000",
+                    "altura": "0",
+                    "largura": "0",
+                    "comprimento": "0",
+                    "diametro": "0"
+                  },
+                  "urlRastreamento": "www2.correios.com.br\/sistemas\/rastreamento\/"
+                }
+              }
+            ],
+            "servico_correios": "PAC (21)",
+            "enderecoEntrega": {
+              "nome": "Adimir\u00e7o J\u00fanior (ADIMIR\u00c7O J\u00daNIOR)",
+              "endereco": "Rua Manoel Fernandes Barbosa Santos",
+              "numero": "230",
+              "complemento": "Conjunto Augusto Franco",
+              "cidade": "Aracaju",
+              "bairro": "Farol\u00e2ndia",
+              "cep": "49.030-420",
+              "uf": "SE"
+            }
+          }
+        }
+      },
+      {
+        "notafiscal": {
+          "serie": "1",
+          "numero": "016724",
+          "loja": "203330307",
+          "numeroPedidoLoja": null,
+          "tipo": "S",
+          "situacao": "Emitida DANFE",
+          "cliente": {
+            "nome": "Tulio Zanusso",
+            "cnpj": "49311720836",
+            "ie": "",
+            "rg": "",
+            "endereco": "avenida Rio Branco",
+            "numero": "802",
+            "complemento": "",
+            "cidade": "Jos\u00e9 Bonif\u00e1cio",
+            "bairro": "Nao informado",
+            "cep": "15.200-000",
+            "uf": "SP",
+            "email": "",
+            "fone": ""
+          },
+          "contato": "Tulio Zanusso",
+          "cnpj": "49311720836",
+          "vendedor": "",
+          "dataEmissao": "2020-01-29 14:13:05",
+          "valorNota": "65.90",
+          "chaveAcesso": "35200115290734000200550010000167241376320292",
+          "xml": "https:\/\/bling.com.br\/relatorios\/nfe.xml.php?s&chaveAcesso=35200115290734000200550010000167241376320292",
+          "linkDanfe": "https:\/\/bling.com.br\/doc.view.php?id=0f8f4727ec06a66dfa8cd5f645d0ec97",
+          "codigosRastreamento": [],
+          "cfops": [
+            "5102"
+          ],
+          "transporte": {
+            "transportadora": "MERCADO ENVIOS SERVICOS DE LOGISTICA LTDA.",
+            "cnpj": "20121850000155",
+            "tipo_frete": "T"
+          }
         }
       }
     ]
