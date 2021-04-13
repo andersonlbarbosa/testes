@@ -1,0 +1,69 @@
+{
+"retorno": {
+"produtos": [
+{
+"produto": {
+"id": "11822756183",
+"codigo": "",
+"descricao": "PLUG BORNE - BNC MACHO 50 OHMS COM BORNE - PARAFUSO PCT/10 - 062-9961 - SANTANA",
+"tipo": "P",
+"situacao": "Ativo",
+"unidade": "D1",
+"preco": "16.4700000000",
+"precoCusto": "16.4700000000",
+"descricaoCurta": null,
+"descricaoComplementar": null,
+"dataInclusao": "2021-03-25",
+"dataAlteracao": "2021-03-25",
+"imageThumbnail": null,
+"urlVideo": "",
+"nomeFornecedor": "SIMPLES SOLUTIONS COME DE EQUIP ELETRONICOS LTDA",
+"codigoFabricante": "31469",
+"marca": "",
+"class_fiscal": "8536.69.90",
+"cest": "",
+"origem": "2",
+"idGrupoProduto": "0",
+"linkExterno": null,
+"observacoes": "",
+"grupoProduto": null,
+"garantia": "0",
+"descricaoFornecedor": "PLUG BORNE - BNC MACHO 50 OHMS COM BORNE - PARAFUSO PCT/10 - 062-9961 - SANTANA",
+"idFabricante": "11822750692",
+"categoria": {
+"id": "980535",
+"descricao": "Categoria padrão"
+},
+"pesoLiq": "0.00000",
+"pesoBruto": "0.00000",
+"estoqueMinimo": null,
+"estoqueMaximo": null,
+"gtin": "",
+"gtinEmbalagem": "",
+"larguraProduto": null,
+"alturaProduto": null,
+"profundidadeProduto": null,
+"unidadeMedida": "Centímetros",
+"itensPorCaixa": 0,
+"volumes": 0,
+"localizacao": "",
+"crossdocking": "",
+"condicao": "Novo",
+"freteGratis": "N",
+"producao": "T",
+"dataValidade": null,
+"spedTipoItem": "",
+"estoqueAtual": 0,
+"depositos": [
+{
+"deposito": {
+"id": "146989099",
+"nome": "Geral",
+"saldo": 0,
+"desconsiderar": "N",
+"saldoVirtual": 0
+}
+}
+]
+}
+},
